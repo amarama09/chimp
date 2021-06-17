@@ -1,3 +1,3 @@
-module amarama.com/amarama09/chimp
+module github.com/amarama9/chimp
 
 go 1.16
